@@ -1,0 +1,69 @@
+#header {
+    color:white;
+    text-align:center;
+	height:180px;
+	width:100%;
+	background-image: url("cr1.png");
+	background-repeat: no-repeat;
+	background-size: 1250px 150px;
+	margin-left: 350px;
+	color: red;
+}
+
+
+	
+
+#footer {
+    background-color:white;
+opacity:0.4;
+    color:red;
+    clear:both;
+    text-align:center;
+font-weight:900;
+    padding:5px; 
+	font-family:arial;
+	font-size : 15px;
+}
+
+.card{ text-align: center;background-color: black;
+	    box-shadow: 1px 1px 1px #888888;
+	   margin-left: 100px;
+	   margin-right: 100px;height: 350px;width: 650px;
+	   border-radius: 30px;
+	   background: rgba(0, 0, 0, 0.8);
+	   padding-top: 30px;
+	   padding-bottom: 30px;
+	   padding-right: 40px;
+	   padding-left: 30px;
+       }
+
+   .textbox {
+    border: 0;
+    height:300px;
+    width: 375px;
+	margin-right:50px;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    box-shadow: 1px 1px 0 0 #FFF, 5px 5px 40px 2px #BBB inset;
+    -moz-box-shadow: 1px 1px 0 0 #FFF, 5px 5px 40px 2px #BBB inset;
+    -webkit-box-shadow: 1px 1px 0 0 #FFF, 5px 5px 40px 2px #BBB inset;
+    -webkit-background-clip: padding-box;
+    outline: 0;
+}
+
+
+
+.submit{height:40px;
+ width: 200px;
+margin-left:0px;
+}
+
+
+.abc{
+    background: url(bg2.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover; /* For WebKit*/
+    -moz-background-size: cover;    /* Mozilla*/
+    -o-background-size: cover;      /* Opera*/
+    background-size: cover;         /* Generic*/
+}
